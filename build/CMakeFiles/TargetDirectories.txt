@@ -1,0 +1,3 @@
+C:/Users/doget/Desktop/code/cmake-test/build/CMakeFiles/hello.dir
+C:/Users/doget/Desktop/code/cmake-test/build/CMakeFiles/edit_cache.dir
+C:/Users/doget/Desktop/code/cmake-test/build/CMakeFiles/rebuild_cache.dir
